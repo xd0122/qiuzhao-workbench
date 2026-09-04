@@ -1,0 +1,10 @@
+# 隐私与中间产物：不入库
+*.xlsx
+__pycache__/
+*.pyc
+xlsx_dump.json
+xlsx_dump_err.txt
+
+# 编辑器/系统
+.DS_Store
+Thumbs.db
